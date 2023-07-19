@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Tanwarst12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<!---
-Tanwarst12/Tanwarst12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p> My name is Sakshi and I'm a Data Scientist</p>.
+
+
+
+
+
