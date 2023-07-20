@@ -8,6 +8,10 @@
  
   <h1 align="center">I'm Data Scientist 🇮🇳 </p>
  
+
+
+### 👩🏻‍💻 Working on some projects and learning new things 😄
+ 
     
  
 
