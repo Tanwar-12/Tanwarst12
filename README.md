@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=Tanwarst12&style=for-the-badge&color=orange)
+![Profile views](https://komarev.com/ghpvc/?username=Tanwarst12&style=for-the-badge&color=blue)
 [![Tanwarst12's stars](https://custom-icon-badges.demolab.com/github/stars/Tanwarst12?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
 
