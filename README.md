@@ -10,12 +10,10 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="200px"/>
 
-
-
 <p align="center">
- 
-  <h1 align="center">I'm Data Scientist.</p>
-  <br clear="both">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=C21E56&center=true&vCenter=true&width=600&height=100&lines=Data Scientist;+Computer+Science+Engineer;+;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/s-t-69a241250" target="_blank">
