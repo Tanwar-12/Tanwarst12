@@ -22,6 +22,8 @@
   <a href="mailto:techtanwar03@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar)
+
 
 
 <br clear="both">
