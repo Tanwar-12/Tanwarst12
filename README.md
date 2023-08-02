@@ -14,7 +14,7 @@
 
 - 📫 How to reach me techtanwar03@gmail.com**
 
-- ⚡ Fun fact *Unlike most foods, honey never spoils!:slightly_smiling_face:*
+- ⚡ Fun fact :*Unlike most foods, honey never spoils!:slightly_smiling_face:*
 
 <h3 align="left">Connect with me:</h3>
 
