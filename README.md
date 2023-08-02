@@ -34,7 +34,6 @@
 
 
 
-[![Tanwarst12 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashishpatel26&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
