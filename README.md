@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Deep Learning Projects.**
 
-- 🌱 I’m currently learning **AI: Augmenting Imaginations Everywhere."**
+- 📝 I’m currently learning **AI: Augmenting Imaginations Everywhere."**
 
 
 
