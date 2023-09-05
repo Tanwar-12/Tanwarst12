@@ -15,8 +15,11 @@
 - 📫 How to reach me techtanwar03@gmail.com**
 
 - ⚡ Fun fact :*Unlike most foods, honey never spoils!:slightly_smiling_face:*
+- # 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
 
-<h3 align="left">Connect with me:</h3>
+|:---:|:---:|:---:|:---:|:---:|
+
+
 
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250)  [![Gmail](https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com)  [![Kaggle](https://img.shields.io/badge/Kaggle-BC544B?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
