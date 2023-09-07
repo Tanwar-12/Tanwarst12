@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanwarst12&label=Profile%20views&color=0e75b6&style=flat" alt="Tanwarst12" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning Projects.
+- 🔭 I’m currently working on **Deep Learning Projects.**
 
 - 📝 I’m currently learning **AI: Augmenting Imaginations Everywhere."**
 
