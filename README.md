@@ -12,7 +12,7 @@
 
 
 
-- 📫 How to reach me techtanwar03@gmail.com**
+- 📫 How to reach me techtanwar03@gmail.com
 
 - ⚡ Fun fact :*Unlike most foods, honey never spoils!:slightly_smiling_face:*
 - # 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
