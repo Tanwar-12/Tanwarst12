@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi </h1>
 <h3 align="center">Like a soaring eagle, let your data-driven aspirations take flight, reaching new heights of knowledge and insights as an aspiring data scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTCNIYd_tNQ5HF3BRTw1CcEE-fX2gmM68bj8lIAZIiLFPKUorhyN2p0uPyC5WIFqBmnc&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanwarst12&label=Profile%20views&color=0e75b6&style=flat" alt="Tanwarst12" /> </p>
 
