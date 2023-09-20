@@ -1,7 +1,7 @@
 
   
 
-![logo](https://github.com/Tanwarst12/Tanwarst12/blob/main/Github%20%20Banner.png)
+
  <h1 align="center">Hi 👋, I'm Sakshi </h1>                      
 <h3 align="center">Like a soaring eagle, let your data-driven aspirations take flight, reaching new heights of knowledge and insights as an aspiring data scientist from India</h3>
 
